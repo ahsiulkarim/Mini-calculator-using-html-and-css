@@ -1,4 +1,4 @@
-# 🧮 Enhanced Calculator
+# 🧮Mini Calculator
 
 A clean, fully functional browser-based calculator built with pure HTML, CSS, and vanilla JavaScript. Supports basic arithmetic, parentheses for grouping, percentage calculations, and decimal numbers.
 
